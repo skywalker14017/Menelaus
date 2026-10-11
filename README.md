@@ -96,7 +96,7 @@ Always use official builds of SideStore and LiveContainer, nightly works too as 
 
 Other sideloading methods may work with Menelaus, but **SideStore and LiveContainer are the only recommended and supported methods**\.
 
-I do not recommend not using other sideloaders\. Compatibility and troubleshooting cannot be guaranteed for them\.
+I do not recommend using other sideloaders\. Compatibility and troubleshooting cannot be guaranteed for them\.
 
 For Menelaus\-specific support, contact the maintainer directly:
 
