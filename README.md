@@ -1,4 +1,4 @@
-# 🦋 Menelaus
+# 🦋 Menelaus (beta)
 
 *A native iOS AI client built around your models, your providers, and your data\.*
 
@@ -100,7 +100,7 @@ I do not recommend not using other sideloaders\. Compatibility and troubleshooti
 
 For Menelaus\-specific support, contact the maintainer directly:
 
-**Discord: ****`skywalker_1401`**
+**Discord:** **`skywalker_1401`**
 
 Please do not contact the SideStore or LiveContainer developers about Menelaus bugs or feature issues\. They maintain separate projects and are not responsible for Menelaus\.
 
