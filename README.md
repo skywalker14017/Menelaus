@@ -123,8 +123,9 @@ Several capabilities are provided by dedicated libraries and runtimes, including
 ## Is this open-source?
 Not at the moment, I do have plans to open-source some parts of it!
 
-## Is Menelaus fully completed?
-No, infact I’d say it’s less than 30% complete! This is an early beta so I’d like to see everyone’s opinions!
+# Is Menelaus fully completed? Are there plans to cross-platform?
+No, infact I’d say it’s less than 30% complete! This is an early beta so I’d like to see everyone’s opinions! And yes, there are plans to go cross-platform in the coming months.
+
 ---
 
 *Built and maintained by skywalker\.*
